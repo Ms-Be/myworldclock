@@ -23,11 +23,11 @@ select {
 }
 
 .container {
-  max-width: 600px;
-  margin: 60px auto;
+  max-width: 500px;
+  margin: 50px auto;
   background: white;
   padding: 30px;
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  box-shadow: rgba(53, 53, 98, 0.2) 0px 7px 29px 0px;
   border-radius: 10px;
 }
 
